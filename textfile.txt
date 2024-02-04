@@ -1,0 +1,3 @@
+Why am i interested in taking cmsc320?
+The class teaches us practical skills, and how we can actually use code in the real world.
+Data science is very important for most CS fields and i think learning it will be interesting.
